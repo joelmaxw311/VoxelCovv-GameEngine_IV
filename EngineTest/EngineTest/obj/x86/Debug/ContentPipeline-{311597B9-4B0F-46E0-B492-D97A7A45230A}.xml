@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\bin\x86\Debug\Content\cow.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\cow.xnb</Output>
       <Time>2014-09-02T17:55:46-07:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\bin\x86\Debug\Content\brick.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\brick.xnb</Output>
       <Time>2014-09-03T15:38:40-07:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\bin\x86\Debug\Content\blocks.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\blocks.xnb</Output>
       <Time>2014-09-04T16:23:16-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -35,10 +35,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTestContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

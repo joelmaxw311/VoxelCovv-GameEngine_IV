@@ -7,7 +7,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\defaultFont.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\defaultFont.xnb</Output>
       <Time>2014-09-02T14:31:26-07:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\TexEffect.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\TexEffect.xnb</Output>
       <Time>2014-09-06T00:22:26-07:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\PlanetEffect.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\PlanetEffect.xnb</Output>
       <Time>2014-09-12T15:06:44.6700512-07:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\crosshair.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\crosshair.xnb</Output>
       <Time>2015-03-28T08:47:59.9286377-07:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\pause.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\pause.xnb</Output>
       <Time>2014-09-09T19:06:08-07:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\select.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\select.xnb</Output>
       <Time>2015-03-28T08:48:14.8924936-07:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\Menu\pause.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\Menu\pause.xnb</Output>
       <Time>2014-09-10T21:43:44-07:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\Menu\quit.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\Menu\quit.xnb</Output>
       <Time>2014-09-10T21:43:58-07:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\playertex.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\playertex.xnb</Output>
       <Time>2014-09-15T21:12:46.2520568-07:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\hpbar.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\hpbar.xnb</Output>
       <Time>2014-09-14T20:58:55.439173-07:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBarBack.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBarBack.xnb</Output>
       <Time>2014-09-15T19:18:38.01536-07:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBar.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBar.xnb</Output>
       <Time>2014-09-15T18:56:52.3996831-07:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\xpBar.xnb</Output>
+      <Output>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\xpBar.xnb</Output>
       <Time>2014-09-15T19:13:34.0939767-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -125,10 +125,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VCEngineContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VCEngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -131,10 +131,10 @@ namespace VoxelCovvEngine
             if (mouseBound)//Capture/Lock mouse
             {
                 MouseState mouse = Mouse.GetState();//Current mouse input information
-                rotation += new Vector2(mouse.X - game.Window.ClientBounds.Width / 2, 
+                rotation += new Vector2(mouse.X - game.Window.ClientBounds.Width / 2,
                     (mouse.Y - game.Window.ClientBounds.Height / 2)) * 0.1f;//Rotate camera angle based on mouse movement
                 rotation.Y = Math.Max(Math.Min(rotation.Y, 85), -85);//Limit vertical look angle
-                
+
                 //Wrap horizontal look angle
                 if (rotation.X < 0)
                     rotation.X += 360;
@@ -204,7 +204,7 @@ namespace VoxelCovvEngine
         /// <param name="move">Direction to walk</param>
         public void Move(Vector3 move)
         {
-            this.movement = (movement + (move * walkSpeed) ) / 2f;//Midpoint (Average)
+            this.movement = (movement + (move * walkSpeed)) / 2f;//Midpoint (Average)
             movement.Normalize();
             movement *= walkSpeed;//Set distance/speed
         }
@@ -425,7 +425,7 @@ namespace VoxelCovvEngine
                 check = position;//The coordinate to test
             int distance = 0;//The length of the line of coordinates that have been tested.
             Vector3 angle = Angle;//The amount to increase the test coordinate by
-            
+
             //Until intersects with something
             for (check = position; distance < 100 && world[curve] == null && !objectBounds.Contains(curve, objectPosition, transformation); check += angle / 16)
             {

@@ -5,3 +5,4 @@ C:\Users\Joel\Documents\My C# Projects\VCEngine\v11\VoxelCovvEngine\EngineTest\E
 E:\c#\VoxelCovvEngine\EngineTest\EngineTestContent\obj\x86\Debug\EngineTestContent.contentprojResolveAssemblyReference.cache
 C:\Users\Joel\Documents\My C# Projects\VCEngine\v12\VoxelCovvEngine\EngineTest\EngineTestContent\obj\x86\Debug\EngineTestContent.contentprojResolveAssemblyReference.cache
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTestContent\obj\x86\Debug\EngineTestContent.contentprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTestContent\obj\x86\Debug\EngineTestContent.contentprojResolveAssemblyReference.cache

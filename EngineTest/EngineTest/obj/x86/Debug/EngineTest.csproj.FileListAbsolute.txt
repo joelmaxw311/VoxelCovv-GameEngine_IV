@@ -158,3 +158,31 @@ C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\obj\x86\Debug\EngineTest.exe
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\EngineTest\EngineTest\obj\x86\Debug\EngineTest.pdb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Copy of pause.uil
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\pause.uil
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\quit.uil
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\title.uil
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\defaultFont.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\TexEffect.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\PlanetEffect.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\pause.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\select.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\Menu\pause.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\Menu\quit.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\playertex.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\hpbar.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\HPbar\hpBarBack.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\HPbar\hpBar.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\HPbar\xpBar.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\cow.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\brick.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\Content\blocks.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\EngineTest.exe
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\EngineTest.pdb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\VoxelCovvEngine.dll
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\bin\x86\Debug\VoxelCovvEngine.pdb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\obj\x86\Debug\EngineTest.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\obj\x86\Debug\EngineTest.exe
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\EngineTest\EngineTest\obj\x86\Debug\EngineTest.pdb

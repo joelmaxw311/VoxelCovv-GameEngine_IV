@@ -99,3 +99,22 @@ C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\obj\x86\Debug\VoxelCovvEngine.dll
 C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\obj\x86\Debug\VoxelCovvEngine.pdb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\defaultFont.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\TexEffect.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\PlanetEffect.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\crosshair.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\pause.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\select.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\Menu\pause.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\Menu\quit.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\playertex.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\hpbar.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBarBack.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBar.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\xpBar.xnb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\VoxelCovvEngine.dll
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\bin\x86\Debug\VoxelCovvEngine.pdb
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\obj\x86\Debug\VoxelCovvEngine.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\obj\x86\Debug\VoxelCovvEngine.dll
+C:\Users\Joel\Documents\GitHub\VoxelCovvGameEngine_IV\VoxelCovvEngine\obj\x86\Debug\VoxelCovvEngine.pdb
