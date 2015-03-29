@@ -1,0 +1,13 @@
+Content\defaultFont.xnb
+Content\TexEffect.xnb
+Content\PlanetEffect.xnb
+Content\crosshair.xnb
+Content\pause.xnb
+Content\select.xnb
+Content\Menu\pause.xnb
+Content\Menu\quit.xnb
+Content\playertex.xnb
+Content\hpbar.xnb
+Content\HPbar\hpBarBack.xnb
+Content\HPbar\hpBar.xnb
+Content\HPbar\xpBar.xnb

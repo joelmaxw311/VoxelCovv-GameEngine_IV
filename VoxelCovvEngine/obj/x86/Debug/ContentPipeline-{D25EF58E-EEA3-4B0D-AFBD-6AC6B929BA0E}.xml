@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>defaultFont.spritefont</Source>
+      <Name>defaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\defaultFont.xnb</Output>
+      <Time>2014-09-02T14:31:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TexEffect.fx</Source>
+      <Name>TexEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\TexEffect.xnb</Output>
+      <Time>2014-09-06T00:22:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlanetEffect.fx</Source>
+      <Name>PlanetEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\PlanetEffect.xnb</Output>
+      <Time>2014-09-12T15:06:44.6700512-07:00</Time>
+    </Item>
+    <Item>
+      <Source>crosshair.png</Source>
+      <Name>crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\crosshair.xnb</Output>
+      <Time>2015-03-28T08:47:59.9286377-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.png</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\pause.xnb</Output>
+      <Time>2014-09-09T19:06:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>select.png</Source>
+      <Name>select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\select.xnb</Output>
+      <Time>2015-03-28T08:48:14.8924936-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\pause.png</Source>
+      <Name>Menu\pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\Menu\pause.xnb</Output>
+      <Time>2014-09-10T21:43:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\quit.png</Source>
+      <Name>Menu\quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\Menu\quit.xnb</Output>
+      <Time>2014-09-10T21:43:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>playertex.png</Source>
+      <Name>playertex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\playertex.xnb</Output>
+      <Time>2014-09-15T21:12:46.2520568-07:00</Time>
+    </Item>
+    <Item>
+      <Source>hpbar.png</Source>
+      <Name>hpbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\hpbar.xnb</Output>
+      <Time>2014-09-14T20:58:55.439173-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HPbar\hpBarBack.png</Source>
+      <Name>HPbar\hpBarBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBarBack.xnb</Output>
+      <Time>2014-09-15T19:18:38.01536-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HPbar\hpBar.png</Source>
+      <Name>HPbar\hpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\hpBar.xnb</Output>
+      <Time>2014-09-15T18:56:52.3996831-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HPbar\xpBar.png</Source>
+      <Name>HPbar\xpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\HPbar\xpBar.xnb</Output>
+      <Time>2014-09-15T19:13:34.0939767-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D25EF58E-EEA3-4B0D-AFBD-6AC6B929BA0E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VCEngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joel\Documents\My C# Projects\VoxelCovvEngineIV\VoxelCovvEngineIV_v1-0_032815_0845\VoxelCovvEngine\VoxelCovvEngine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-15T19:39:43.031958-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
